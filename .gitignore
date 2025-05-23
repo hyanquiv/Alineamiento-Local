@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.exe
+*.pdb
+*.obj
+*.log
