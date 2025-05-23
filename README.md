@@ -1,4 +1,4 @@
-﻿﻿# 🔬 Secuenciador de Alineamiento Local en C++ (FASTA + Google Test)
+﻿# 🔬 Secuenciador de Alineamiento Local en C++
 
 Este proyecto implementa el algoritmo de alineamiento local (Smith-Waterman) en C++, con soporte para entrada FASTA, exportación de resultados a `.txt` y pruebas unitarias usando Google Test.
 
